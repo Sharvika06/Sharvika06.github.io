@@ -6,5 +6,3 @@ A dedicated Software Development Engineer focused on delivering impactful soluti
 
 
 
-Languages and Tools:
-aws bash bootstrap c cplusplus css3 express git heroku html5 java javascript jenkins kafka linux matlab mongodb mssql mysql nginx nodejs oracle postgresql postman python react redux sass sqlite typescript
